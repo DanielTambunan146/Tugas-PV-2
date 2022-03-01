@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanPV", "LatihanPV\LatihanPV.csproj", "{C54660BB-B77C-495A-89C0-9FCF118C27E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan1", "Latihan1\Latihan1.csproj", "{A84EE46E-4F77-41FC-9814-0218122443B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54660BB-B77C-495A-89C0-9FCF118C27E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54660BB-B77C-495A-89C0-9FCF118C27E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54660BB-B77C-495A-89C0-9FCF118C27E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54660BB-B77C-495A-89C0-9FCF118C27E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84EE46E-4F77-41FC-9814-0218122443B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84EE46E-4F77-41FC-9814-0218122443B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84EE46E-4F77-41FC-9814-0218122443B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84EE46E-4F77-41FC-9814-0218122443B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\obj\Debug\LatihanPV.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\bin\Debug\LatihanPV.exe
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\bin\Debug\LatihanPV.pdb
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\obj\Debug\LatihanPV.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\obj\Debug\LatihanPV.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\obj\Debug\LatihanPV.exe
+C:\Users\user\Documents\SharpDevelop Projects\LatihanPV\LatihanPV\obj\Debug\LatihanPV.pdb
